@@ -1,0 +1,2 @@
+fan_mode0={'terget_temp_min':None,'terget_temp_max':None,'min_fan_rpm':None,'critical_temp':None,'target_mem':None,'boost':None,'selected_mod':None,'select_fan':None}
+fan_mode2={'SetRpm':None,'selected_mod':None}
